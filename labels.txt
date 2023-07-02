@@ -1,0 +1,3 @@
+0 Rock (pedra)
+1 Paper (papel)
+2 Scissor (tesoura)
